@@ -1,0 +1,11 @@
+# Configs
+.idea/
+.vscode/
+assignment01.iml
+
+# macOS
+.DS_Store
+
+# Compiled
+out/
+*.class
